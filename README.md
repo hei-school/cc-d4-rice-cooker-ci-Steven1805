@@ -16,5 +16,6 @@ This simple application simulates the functionality of a rice cooker through a c
 
 1. Go to each branches for the specific requirements on its installation and settings.
 
+## License
 
 This project tests is licensed under [Circle CI](https://circleci.com/).
